@@ -2,7 +2,9 @@ NYC Find a Fountain
 =============
 
 Author: Joel Kemp, @mrjoelkemp
+
 Created: Summer 2011
+
 Updated: Periodically
 
 ## Purpose
